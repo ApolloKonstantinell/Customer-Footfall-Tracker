@@ -8,5 +8,48 @@ This project showcases the development of a simple visualisation, created for th
 The purpose for the final tracker is to have a live visual of the trends in guest footfall, in order to aid senior management with admin prediction and staffing needs.
 
 # Project Overview
-The project initially meant to collate data on "peak" operational hours for one cinema venue, to create a base staffing requirements for the week. The intention was to create an hour-by-hour map in order to anticipate the base staffing needs for the venue.
-It then evolved into a dynamic tracker that can be filled in day-by-day or week at a time. The purpose of this is to be able to track and then anticipate guest behaviour.
+The project initially meant to collate data on "peak" operational hours for one cinema venue, to create a base staffing requirements for the week. The intention was to create an hour-by-hour map in order to anticipate the base staffing needs for the venue. 
+
+It then evolved into a dynamic tracker that can be filled in day-by-day or week at a time. The purpose of this is to be able to track and anticipate guest behaviour.
+
+Project scope is daily operation, by hour across the first quarter (January - March)
+
+### What this project covers
+*  Collection of raw data for Q1 - number of screens that have over 30 admits within an hours limit
+*  Transformation into usable dataset
+*  Visual summaries - generated and created
+*  Customer Foot Fall - dynamic tally and presentation heatmap
+
+# Repository Structure
+
+goes here
+
+# Analysis Approach
+
+x
+This document covers
+x
+
+# Dataset Information
+
+File: [Tally.xlsm](https://github.com/user-attachments/files/34153202/Tally.xlsm)
+
+This data set contains a tally of movie screenings with final admin numbers above 30. Collected into an hour by week day table.
+
+# Technologies Used
+
+* Vista - cinema management software
+* Excel
+* Copilot
+* Gemini - aid to create the dynamic tally
+
+# Visual Outputs
+x
+
+# Licence
+
+This project is released under the MIT License. See the xxx file for full details.
+
+# Author
+
+Apollinaria Konstantinell: https://github.com/ApolloKonstantinell
