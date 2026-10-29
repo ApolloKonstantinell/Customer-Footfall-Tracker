@@ -1,5 +1,5 @@
-# Customer-Foot-Fall-Tracker
-This repository showcases the evolution of a customer foot fall tracker, from an ad hoc visual reporting aid to a dynamic tracker that can aid team scheduling
+# Customer-Footfall-Tracker
+This repository showcases the evolution of a customer footfall tracker, from an ad hoc visual reporting aid to a dynamic tracker that can aid team scheduling
 
 Author: Apollo Konstantinell
 License: MIT
@@ -18,7 +18,7 @@ Project scope is daily operation, by hour across the first quarter (January - Ma
 *  Collection of raw data for Q1 - number of screens that have over 30 admits within an hours limit
 *  Transformation into usable dataset
 *  Visual summaries - generated and created
-*  Customer Foot Fall - dynamic tally and presentation heatmap
+*  Customer Footfall - dynamic tally and presentation heatmap
 
 # Repository Structure
 
@@ -32,7 +32,7 @@ x
 
 # Dataset Information
 
-File: [Tally.xlsm](https://github.com/user-attachments/files/34153202/Tally.xlsm)
+File: [Tally.xlsm](https://github.com/user-attachments/files/34153202/Tally.xlsm) (see "Footfall Data and Heatmap V1")
 
 This data set contains a tally of movie screenings with final admin numbers above 30. Collected into an hour by week day table.
 
