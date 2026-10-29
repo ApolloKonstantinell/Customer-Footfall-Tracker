@@ -48,7 +48,7 @@ x
 
 # Licence
 
-This project is released under the MIT License. See the xxx file for full details.
+This project is released under the MIT License. See the [xxx](https://github.com/ApolloKonstantinell/Customer-Foot-Fall-Tracker/blob/main/LICENSE.md) file for full details.
 
 # Author
 
